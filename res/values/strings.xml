@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Campus Connect</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Exit</string>
+    <string name="title_activity_base_main">SRMBuzz</string>
+    <string name="desc">yo</string>
+    <string name="action_search">home</string>
+    <string name="about_info">	Team AAKASH came up with SRM BUZZ Application which has the potential to revolutionize the concept of college level notification system, which when implemented widely will give the power to every SRMite to access or publicize updates on various events and happenings.
+	The app is compatible with the AAKASH tablet and also on various android devices with required configurations for the application.
+	It is managed and maintained with the help of an online server, where the representatives of teams that require notifying updates can use a specially designed portal which they are granted access to, which gives them the freedom and power to publicize abundantly.
+	The users of the application seeking for updates can personalize their preferences based on interests and hence giving them the capability to get connected to teams they’re members of or public info by all teams. 
+	SRM BUZZ is made available to everyone, free of cost on the play store which can be downloaded by anyone having an android device that has minimum configurations required for running the application.
+	\n\nThis app was later renamed as Campus Connect and made available to all colleges.
+   </string> 
+   <string name="about_info1"> Important messages about events and developments by teams of various projects, clubs, fests and associations of SRM University (and many other colleges for that matter) lack a proper platform for publicity and notification and hence there is a serious requirement for setting up a standard notification system to provide timely updates to students and others, based on demand.
+    A reliable way to implement such a kind of system is by an android application, specially designed to serve for the needs of both the teams that need publicity as well as individuals seeking for information based on their interests and requirements.
+        
+    </string>
+   
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>Home</item>
+        <item>About</item>
+        <item>Search</item>
+        <item>Help</item>
+        <item>RateUs</item>
+        <item>Credits</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/homei</item>
+        <item>@drawable/srmbuzzlogo</item>
+        <item>@drawable/seacrhi</item>
+        <item>@drawable/helpi</item>
+        <item>@drawable/rateusi</item>
+        <item>@drawable/aakashi</item>
+    </array>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="title_activity_finish">Finish</string>
+
+</resources>
